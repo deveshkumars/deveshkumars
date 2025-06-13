@@ -18,15 +18,24 @@
 
 ## 🛠️ Top Projects
 
+- [**YourCade.io**](https://github.com/deveshkumars/HackBrown2025):  
+  Website for Brown’s Machine Intelligence Community, built with Next.js and JavaScript.
+  Note: We ran out of API credits :(
+  _[Live Demo](https://yourcade.io)_
+
 - [**BMIC**](https://github.com/deveshkumars/BMIC):  
   Website for Brown’s Machine Intelligence Community, built with Next.js and JavaScript.  
-  _[Live Demo](https://bmic-five.vercel.app)_
+  _[Live Demo](https://brownmic.vercel.app)_
+
+- [**Brown Motion Pictures Website: Soul Sisters Movie**](https://github.com/fullstackatbrown/project-soul-sisters)
+  Developed an image loading system and contact form for a Brown Motion Pictures film website.
+  [Live Demo](https://www.soulsistersthemovie.com)
 
 - [**contactmanager**](https://github.com/deveshkumars/contactmanager):  
   Backend project using Node.js, Express, and MongoDB.
 
 - [**Maggie-Walker-Geoguesser**](https://github.com/deveshkumars/Maggie-Walker-Geoguesser):  
-  A Python-based geolocation challenge/game.
+  A geolocation challenge/game that used pictures from my High school. 
 
 - [**watchmania**](https://github.com/deveshkumars/watchmania):  
   A JavaScript project—explore more in the repo!
